@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".A_Rainy_Day">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+           <LinearLayout
+               android:layout_width="match_parent"
+               android:layout_height="match_parent"
+               android:orientation="vertical">
+               
+               <EditText
+                   android:id="@+id/transaleEdittex"
+                   android:padding="30dp"
+                   android:layout_width="match_parent"
+                   android:layout_marginLeft="20dp"
+                   android:layout_marginTop="30dp"
+                   android:layout_marginRight="20dp"
+                   android:background="#F5F1FA"
+                   android:ems="4"
+                   android:inputType="textMultiLine"
+                   android:layout_height="100dp"
+                   android:hint="Enter Text to Speak"
+                   android:textSize="20dp"
+
+
+                   />
+               <Button
+                   android:id="@+id/translatebtn"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="Speak"
+                   android:textStyle="bold"
+                   android:textAllCaps="false"
+                   android:textSize="17dp"
+                   android:drawableLeft="@drawable/ic_baseline_keyboard_voice_24"
+                   android:layout_marginLeft="300dp"
+                   android:textColor="#232323"
+                   />
+           </LinearLayout>
+               
+            
+               
+            
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="A Rainy Day"
+                android:textAlignment="center"
+                android:textIsSelectable="true"
+                android:textSize="30dp"
+                android:layout_marginTop="12dp"
+                android:textColor="#384BC3"
+                android:textStyle="bold"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:padding="10dp"
+                android:text="@string/a_rainy_day"
+                android:textAlignment="center"
+                android:textIsSelectable="true"
+                android:textSize="25dp" />
+
+
+           <TableLayout
+               android:layout_width="match_parent"
+               android:layout_height="match_parent"
+               >
+               <TableRow
+                   android:layout_marginTop="40dp"
+                   android:gravity="center"
+                   >
+                   <TextView
+                       android:text="Important Words(গুরুত্বপূর্ণ শব্দগুলা)"
+                       android:textSize="20dp"
+                       android:textStyle="bold"
+                       />
+               </TableRow>
+               <TableRow
+                   android:layout_marginTop="20dp"
+                   android:gravity="center"
+                   >
+                   <TextView
+                       android:text="Drizzles = গুঁড়ি গুঁড়ি বৃষ্টি"
+                       android:textSize="19dp"
+                       android:textColor="#FF5722"
+                       android:textAlignment="center"
+                       android:gravity="center_horizontal"
+                       ></TextView>
+               </TableRow>
+
+               <TableRow
+                   android:layout_marginTop="15dp"
+                   android:gravity="center"
+                   >
+                   <TextView
+                       android:text="Scene = দৃশ্য"
+                       android:textSize="19dp"
+                       android:textColor="#FF5722"
+                       android:textAlignment="center"
+                       android:textIsSelectable="true"
+                       android:gravity="center_horizontal"
+                       ></TextView>
+               </TableRow>
+               <TableRow
+                   android:layout_marginTop="15dp"
+                   android:gravity="center"
+                   >
+                   <TextView
+                       android:text="Heavily = ভারী"
+                       android:textSize="19dp"
+                       android:textColor="#FF5722"
+                       android:textAlignment="center"
+                       android:textIsSelectable="true"
+                       android:gravity="center_horizontal"
+                       ></TextView>
+               </TableRow>
+               <TableRow
+                   android:layout_marginTop="15dp"
+                   android:gravity="center"
+                   >
+                   <TextView
+                       android:text="Hardly Seen = খুব কমই দেখা যায়"
+                       android:textSize="19dp"
+                       android:textColor="#FF5722"
+                       android:textAlignment="center"
+                       android:textIsSelectable="true"
+                       android:gravity="center_horizontal"
+                       ></TextView>
+               </TableRow>
+               <TableRow
+                   android:layout_marginTop="15dp"
+                   android:gravity="center"
+                   >
+                   <TextView
+                       android:text="Thus = এইভাবে"
+                       android:textSize="19dp"
+                       android:textColor="#FF5722"
+                       android:textAlignment="center"
+                       android:textIsSelectable="true"
+                       android:gravity="center_horizontal"
+                       ></TextView>
+               </TableRow>
+               <TableRow
+                   android:layout_marginTop="15dp"
+                   android:gravity="center"
+                   >
+                   <TextView
+                       android:text="Muddy = কর্দমাক্ত"
+                       android:textSize="19dp"
+                       android:textColor="#FF5722"
+                       android:textAlignment="center"
+                       android:textIsSelectable="true"
+                       android:gravity="center_horizontal"
+                       ></TextView>
+               </TableRow>
+               <TableRow
+                   android:layout_marginTop="15dp"
+                   android:gravity="center"
+                   >
+                   <TextView
+                       android:text="Slippery = পিছল"
+                       android:textSize="19dp"
+                       android:textColor="#FF5722"
+                       android:textAlignment="center"
+                       android:textIsSelectable="true"
+                       android:gravity="center_horizontal"
+                       ></TextView>
+               </TableRow>
+
+               <TableRow
+                   android:layout_marginTop="15dp"
+                   android:gravity="center"
+                   >
+                   <TextView
+                       android:text="Rather = বরং"
+                       android:textSize="19dp"
+                       android:textColor="#FF5722"
+                       android:textAlignment="center"
+                       android:textIsSelectable="true"
+                       android:gravity="center_horizontal"
+                       ></TextView>
+               </TableRow>
+               <TableRow
+                   android:layout_marginTop="15dp"
+                   android:gravity="center"
+                   >
+                   <TextView
+                       android:text="Spend = ব্যয় করা"
+                       android:textSize="19dp"
+                       android:textColor="#FF5722"
+                       android:textAlignment="center"
+                       android:textIsSelectable="true"
+                       android:gravity="center_horizontal"
+                       ></TextView>
+               </TableRow>
+               <TableRow
+                   android:layout_marginTop="15dp"
+                   android:gravity="center"
+                   >
+                   <TextView
+                       android:text="Gossiping = গল্প গুজব করা"
+                       android:textSize="19dp"
+                       android:textColor="#FF5722"
+                       android:textAlignment="center"
+                       android:textIsSelectable="true"
+                       android:gravity="center_horizontal"
+                       ></TextView>
+               </TableRow>
+               <TableRow
+                   android:layout_marginTop="15dp"
+                   android:gravity="center"
+                   >
+                   <TextView
+                       android:text=" A Curse = একটি অভিশাপ"
+                       android:textSize="19dp"
+                       android:textColor="#FF5722"
+                       android:textAlignment="center"
+                       android:textIsSelectable="true"
+                       android:gravity="center_horizontal"
+                       ></TextView>
+               </TableRow>
+
+
+           </TableLayout>
+
+        </LinearLayout>
+    </ScrollView>
+
+
+
+</LinearLayout>

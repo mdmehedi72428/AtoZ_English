@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">A to Z English</string>
+    <string name="A_R_D">On a rainy day, it rains all day long. A rainy day is dull and gloomy. The sky is overcast with thick clouds. None can go out without an umbrella. Water stands the roads and roads become muddy and slippery. Those who have offices and other businesses go out with umbrellas over their head, shoes in hand and clothes folded up to the knee. Passers-by also move in the same way. Sometimes people slip and fall on the muddy road. When it rains in torrents, people get drenched and stop midway. The poor suffer much on a rainy day. They cannot go out in quest of work and cannot earn their daily food. They pass the day through sufferings. Most of the students do not go to the school. Only a few go to the school, but they get drenched on the way. So, classes are not held and it is a day of great joy to them. Other people stay at home and pass the day without doing anything. The cattle keep standing in their sheds and bellow. A rainy day is a mixed day of joy and sorrow. Despite all its disadvantages, we enjoy ourselves on this day. It brings some variety to our monotonous life.</string>
+
+    <string-array name="paragraph">
+        <item>A Rainy Day</item>
+        <item>Winter Morning</item>
+        <item>A Favourite Teacher</item>
+        <item>Traffic Jam</item>
+        <item>Deforestation</item>
+        <item>May Day</item>
+        <item>A Teaacher</item>
+        <item>Traffic Jam</item>
+        <item>Winter Season</item>
+        <item>A Future life</item>
+        <item>A Teaacher</item>
+        <item>Traffic Jam</item>
+        <item>Winter Season</item>
+        <item>A Future life</item>
+        <item>Traffic Jam</item>
+        <item>Winter Season</item>
+        <item>A Future life</item>
+        <item>A Teaacher</item>
+        <item>Traffic Jam</item>
+        <item>Winter Season</item>
+        <item>A Future life</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    //Winter Morning
+    <string name="winter_morning">
+        There are six seasons in Bangladesh. Winter is one of them. Winter is very important and interesting. December and January are the months of winter. Winter has a special character (বিশেষ বৈশিষ্ট). It is mainly misty and cold in our country. There is a dense fog (ঘন কুয়াশা) everywhere. Everything looks hazy in the morning. Things cannot be seen from a little distance. Nature loses its beauty. It looks dull and gloomy in the morning. When the morning sun peeps, the dewdrops look like glittering diamonds on the grasses. Generally, people get up late from bed. Children and old men feel happy to see the rays of the sun. However, they busk in the sun (রৌদ্দ পোহায়). The villagers enjoy various delicious cakes (সুস্বাদু পিঠা) in the winter morning. Winter morning is a curse to the poor people. They do not like it.
+    </string>
+    <string name="winter_word">
+        Misty = কুয়াশাচ্ছন্ন \n\n
+
+        Hazy = অস্পষ্ট/কুয়াশাচ্ছন্ন \n
+    </string>
+
+    //////
+    ////Rainy Day
+    <string name="a_rainy_day">
+        Generally, a rainy day occurs in the rainy season. It usually rains all day long (সারা দিন ব্যাপী) on a rainy day. It is a common scene in our country during the rainy season. The sky remains cloudy in such a day (এমন একটি দিন). Sometimes it drizzles and sometimes it rains heavily. So, the sun is hardly seen in the sky. Thus, the day looks dull and gloomy (নিস্তেজ এবং অন্ধকার). People cannot move freely from one place to another (এক জায়গা থেকে অন্য জায়গায়). They remain indoors. The roads become muddy and slippery. Sometimes roads and fields go underwater. A rainy day affects the lives of poor people.  They cannot go out to earn their livelihood. The students do not go to school rather they stay at home. Rich people spend their day gossiping and playing cards. Thus, a rainy day is a blessing and a curse to people.
+    </string>
+    /////Favurite Teacher
+    <string name="a_favourite_teacher">
+        Everyone has a favorite person. I am not exceptional (ব্যতিক্রম) from others. Sirajul Islam is my favorite English teacher. He is 38 with good health. He is a brilliant scholar with a sound academic career. He is M.A in English. His method of teaching is very easy. He has a strong, clear, and pleasant voice (সুমিষ্ঠ কন্ঠ). Every day he teaches us in a new style (নতুন ভঙ্গিতে). He can make any grammatical problems easy. He knows well how to increase the curiosity (কৌতুহলী) of the students. His pronunciation (উচ্চারণ) is good.  He acts like an actor while teaching. We never feel boring (বিরুক্তিবোধ) in his class. He is well behaved and co-operative (সহযোগী). He is never rude (রুক্ষ) but friendly with his students. Moreover, he is honest, sincere, and dutiful. He has left a permanent impression (স্থায়ী আকর্ষণ) in my mind. He is my best teacher.
+    </string>
+    <string name="traffic_jam">
+        In our day to day life (আমাদের প্রতিদিনের জীবনে), we are facing in many problems. Traffic jam is one of them. Traffic jam means the blockade of vehicles(যানবাহন অবরোধ). Nowadays it is a common problem in our cities and towns. However, it causes great suffering to passengers. There are several reasons for traffic jams. The number of vehicles is increasing to meet the needs of the increased population. Roads are insufficient in proportion to our population. Many drivers do not obey the traffic rules. Overtaking is also responsible for traffic jams. Traffic jam creates a lot of problems. The general people face the untold sufferings. They become late in their working place. So, it kills our valuable time. To solve this problem is a crying need for the sake of our existence(আমাদের অস্তিত্বের জন্য). Moreover, the Government, as well as civil society(সুশীল সমাজ), should be up and doing to solve this fatal problem(মারাত্মক সমস্যা).
+    </string>
+    ///Deforestation
+    <string name="deforestation">
+        In our day-to-day life(প্রতিদিনের জীবন), we are facing many problems. Deforestation is one of them. Deforestation means cutting down trees(গাছ কেটে ফেলা) or destruction of forestland at random(এলোমেলোভাবে বনভূমি ধ্বংস). Our population is increasing at a high rate. So this additional population needs more land for settlement and cultivation. As a result, land for trees and forests are decreasing day by day. People are also destroying trees for cooking food, making fires, melting pith, etc. The effect of deforestation on our environment is very serious. Deforestation causes an increase in carbon dioxide, global warming(বৈশ্বিক উষ্ণতা), and ecological imbalance(পরিবেশগত ভারসাম্যহীনতা). Besides, there occur various natural calamities(প্রাকৃতিক দুর্যোগ) like floods, cyclones, tidal surge, sea-level rise, etc. All these terribly affect wildlife as well as our environment. So we may say that men who are mostly responsible for deforestation. To solve our environment, we should stop cutting trees and plant more and more trees. The government should raise concern among people.
+    </string>
+    //May Day
+    <string name="may_day">
+        Some days are internationally important. May 1st is one of them. It is known as international workers day. The day is observed (উদযাপন করা হয়) to commemorate the historic struggle (ঐতিহাসিক সংগ্রাম) of working people. However, the day has a historical background (ঐতিহাসিক পঠভূমি). At the beginning of the industrial revolution working, people worked for a long time. So, they felt the necessity of minimum wage(ন্যূনতম মজুরির প্রয়োজনীয়তা), safety laws, and eight hours of the workday.  For this purpose, many strikers demanded their rights gathering in Chicago on May 30, 1886. For this reason, the police fired at a crowd of strikers (এক দল ধর্মঘটকারী).  At this, at least (কমপক্ষে) one striker killed, five or six were wounded and many other workers were injured. Today’s workers are enjoying some privileges (কিছু সুযোগ সুবিধা). So, the day is the most important for working people all over the world.
+    </string>
+    //a teacher
+    <string name="a_teacher">
+        The devotion of a teacher in the nation’s development is mention-worthy, as good teachers are essential assets. The presence of teachers has been from pre-historic society. In the beginning, when one of very good at something, they were requested by the other to teach them about it in exchange for something (Gurudakshina was given as per the wish of the teacher at the end of training or teaching).
+        Most teachers are willing to help anytime when someone needs it. A teacher can successfully arouse the curiosity about the concepts in their students and then can also successfully satisfy that hunger or thirst for knowledge. An ideal teacher should be efficient in teaching, sincere, disciplined, talented, polite, hardworking, dutiful, and honest.
+        Teachers help students overcome fear and discover each student’s potential, sometimes even before they can themselves know. Teachers are often called the guardian angels of the society, for they bear all qualities of a friend, guide, and philosopher. A teacher can feel immense pride and personal success in the success of their students. A good teacher can look beyond a student’s academic success and help them find a path to fulfill their purpose of life.
+    </string>
+</resources>
